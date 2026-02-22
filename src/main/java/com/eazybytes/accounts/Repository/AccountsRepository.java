@@ -1,0 +1,2 @@
+package com.eazybytes.accounts.Repository;public class AccountsRepository {
+}
